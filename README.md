@@ -1,3 +1,8 @@
+
+![logo](Image2bin/logo.png)
+
+
+
 # Image2bin
 
 A simple and fast image-to-binary converter optimized for **Google Colab**. Convert your images to binary format for easier and more efficient handling in embedded systems and hardware projects. 🔥
