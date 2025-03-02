@@ -1,5 +1,5 @@
+![Logo](https://github.com/un4ble/Image2bin/raw/main/logo.png)
 
-![Logo](https://ibb.co/1jCmq7R)
 
 
 
