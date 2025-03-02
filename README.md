@@ -22,13 +22,13 @@ Simply run the code in [Google Colab](https://colab.research.google.com) and fol
 ## 🎮 How it works
 
 1. 📤 Upload your image to the "***Files***" tab
-2. 🖥️ Run the conversion script
+2. 🖥️ Run the conversion [script](https://github.com/un4ble/Image2bin/raw/main/Image2bin%20v2.py)
 3. 💾 Download the binary output saved in your Colab project "***Files***" tab, and use it in your project!
 
 ## 🛠️ Usage
 
 
-1. 👾 Configure the code (as listed in the comments inside the script)
+1. 👾 Configure the [code](https://github.com/un4ble/Image2bin/raw/main/Image2bin%20v2.py) (as listed in the comments inside the script)
 2. 💻 Use ***CPU*** environment
 
 
